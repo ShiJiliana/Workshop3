@@ -1,7 +1,8 @@
 import turtle
 
 colors = ['red', 'skyblue', 'blue', 'green', 'orange', 'red']
-percent = [15, 33, 7, 15, 20, 10]  # Процентное соотношение данных
+percent = [15, 33, 7, 15, 20, 10]  # Соотношение дуг в %
+
 
 total = sum(percent)
 angle_sum = 0
